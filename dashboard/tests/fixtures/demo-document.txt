@@ -1,0 +1,2 @@
+Fictional CRM attachment for local workflow testing.
+This file contains no real student or passport information.
